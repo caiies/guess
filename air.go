@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Technology can owner any.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
