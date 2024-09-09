@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Attorney kitchen social serve pay.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
