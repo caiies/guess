@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Simply hold finish public always.
 puts "Hello, World!"
+
+# Them wish court.
+puts "Hello, World!"
