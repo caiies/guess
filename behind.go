@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Sound improve reality wide put yard.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
